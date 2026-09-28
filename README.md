@@ -1,6 +1,8 @@
-# Cosmic Dodge 
+# Cosmic Dodge 🚀
 
-Cosmic Dodge  is a simple 2D arcade game developed in Python using the Pygame library.
+![Cosmic Dodge](output.png)
+
+A simple 2D space-dodging game built with Python and Pygame.
 
 The player controls a spaceship at the bottom of the screen and must avoid falling stars. The goal is to survive for as long as possible. As the game continues, stars appear more frequently, making the game progressively more challenging.
 
